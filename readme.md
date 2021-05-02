@@ -1,7 +1,7 @@
 <h1 align="center">Guía para crear tu perfil en GITHUB con un README
 <br>
 
-![Learnmore](https://www.kindpng.com/picc/m/409-4091164_learn-more-lets-play-png-transparent-png.png)
+<img src="https://894532.smushcdn.com/2098219/wp-content/uploads/2018/09/p31.jpg?lossy=0&strip=1&webp=1" width="100%" height="50%">
 
 ### Contenidos:
 
